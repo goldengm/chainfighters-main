@@ -1,0 +1,1 @@
+py contribute.py --repository=git@github.com:goldengm/chainfighters-main.git -sd="2021/01/15, 14:14:00" -nw
